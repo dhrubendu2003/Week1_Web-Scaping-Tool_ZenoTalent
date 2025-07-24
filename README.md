@@ -1,0 +1,3 @@
+This web scraper is a Streamlit application that extracts content from websites and their subpages. It allows users to configure scraping parameters like maximum pages and request delays. The tool collects page titles, content, and links while respecting website domains. Results are displayed in an interactive dashboard with summary metrics, detailed views, and downloadable Excel reports. Built with Python, it uses BeautifulSoup for parsing, requests for HTTP handling, and pandas for data management. Ideal for content analysis, SEO research, and website auditing tasks.
+
+This is a link to [Web Scraping Tool](https://week1web-scaping-tool-zenotalent.streamlit.app/).
